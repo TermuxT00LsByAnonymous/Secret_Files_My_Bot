@@ -1,0 +1,8 @@
+# Telegram bot ke liye zaroori library, webhooks ke support ke saath
+python-telegram-bot[webhooks]>=20.0
+
+# MongoDB se connect karne ke liye
+pymongo
+
+# .env file se secrets load karne ke liye
+python-dotenv
